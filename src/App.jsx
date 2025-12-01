@@ -39,7 +39,7 @@ const App = () => {
 
             <div className="overflow-hidden rounded-xl border-2 border-gray-700 shadow-xl hover:border-pink-500/50 transition-all duration-300">
               <img 
-                src="public/1.png" 
+                src="assets/image/1.png" 
                 alt="" 
                 className="w-full h-auto object-cover transition-transform duration-500 hover:scale-105"
               />
