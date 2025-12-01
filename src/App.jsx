@@ -10,7 +10,7 @@ const App = () => {
       <header className="border-b border-gray-700 bg-gray-800/80 backdrop-blur-sm">
         <div className="container flex h-16 items-center justify-center">
           <Badge variant="destructive" className="text-sm font-medium bg-red-600 hover:bg-red-700 border-red-500">
-            ⚠️ DOSSIER CONFIDENTIEL • NE PAS PARTAGER
+            ⚠️ CONFIDENTIAL FILE • DO NOT SHARE 
           </Badge>
         </div>
       </header>
@@ -19,8 +19,8 @@ const App = () => {
         <Card className="mx-auto max-w-4xl overflow-hidden border border-gray-700 bg-gray-800/80 backdrop-blur-sm shadow-xl">
           <CardHeader className="space-y-2 pb-4">
             <CardTitle className="text-3xl font-extrabold tracking-tight bg-gradient-to-r from-pink-500 to-rose-500 bg-clip-text text-transparent">
-              Vous ne devinerez jamais ce que je viens de faire en pleine réunion{" "}
-              <span className="bg-gradient-to-r from-rose-500 to-pink-500 bg-clip-text text-transparent">du comité de direction ...</span>
+              You'll never guess what I just did in the middle of a meeting{" "}
+              <span className="bg-gradient-to-r from-rose-500 to-pink-500 bg-clip-text text-transparent">with the board of directors...</span>
             </CardTitle>
             <Separator className="my-2 bg-gray-700" />
           </CardHeader>
@@ -28,12 +28,11 @@ const App = () => {
           <CardContent className="space-y-8">
             <blockquote className="border-l-4 border-pink-500 pl-6 py-2 text-gray-300 italic bg-gray-800/50 rounded-r-lg">
               <p className="text-lg leading-relaxed">
-                Je suis une stagiaire de 20 ans, mariée à un homme terriblement
-                ennuyeux. Il est tellement obsédé par son boulot qu'il n'a plus le
-                temps pour les histoires de lit, et il ne me demande même jamais si
-                j'ai envie de sexe. Ça paraît dingue que j'aie choisi de l'épouser,
-                non ? C'est juste que je ne pensais pas qu'il préférerait son
-                travail au cul.
+                I'm a 20-year-old intern, married to a terribly boring man. He is
+                so obsessed with his job that he no longer has time for bedroom stories,
+                and he never even asks me if I want sex. It seems crazy that I
+                chose to marry him, right? It's just that I didn't think he would
+                prefer his work to ass.
               </p>
             </blockquote>
 
@@ -46,18 +45,17 @@ const App = () => {
             </div>
 
             <p className="text-gray-200 leading-relaxed text-lg">
-              Et là... je suis coincée dans une réunion au 50ème étage d'une tour
-              à New York, avec une seule obsession en tête : jouir. La réunion du
-              comité de direction avait commencé depuis dix minutes. J'étais
-              assise là, faussement calme. Mais je n'entendais plus un mot.
-              J'étais obsédée par la chaleur liquide qui inondait déjà mes cuisses
-              sous ma jupe de tailleur. Il faut que vous ayez l'image en tête pour
-              comprendre mon calvaire. Je ne suis pas le genre de femme qu'on
-              oublie. Je fais 1m75 (5'9), j'ai la peau très pâle, de longs cheveux
-              bouclés qui tombent en cascade dans mon dos et un fessier bien rond.
-              Mais le pire, c'est ce que je cache sous mon chemisier strict. Je
-              fais un 95D (34DD), et aujourd'hui, ma poitrine semblait peser une
-              tonne, comprimée dans ce tissu trop serré.
+              And now... I'm stuck in a meeting on the 50th floor of a tower in
+              New York, with only one obsession on my mind: to come. The board of
+              directors' meeting had started ten minutes ago. I was sitting there,
+              falsely calm. But I couldn't hear a word anymore. I was obsessed
+              with the liquid heat that was already flooding my thighs under my
+              tailored skirt. You have to have the image in mind to understand my
+              torment. I am not the type of woman you forget. I'm 5'9, I have very
+              pale skin, long curly hair that cascades down my back, and a nice
+              round behind. But the worst thing is what I hide under my strict
+              blouse. I'm a 34DD, and today, my chest seemed to weigh a ton,
+              compressed in that too-tight fabric.
             </p>
 
             <div className="overflow-hidden rounded-xl border-2 border-gray-700 shadow-xl hover:border-pink-500/50 transition-all duration-300">
@@ -69,51 +67,48 @@ const App = () => {
             </div>
 
             <p className="text-gray-200 leading-relaxed text-lg">
-              J'étais au bord de l'explosion devant mes collègues. J'ai prétexté
-              une urgence pour courir m'enfermer dans les toilettes privées de la
-              direction. Une fois le verrou tiré, seule face à mon reflet dans le
-              grand miroir, je n'ai plus pu me contenir.
+              I was on the verge of exploding in front of my colleagues. I made up
+              an emergency to run and lock myself in the private executive
+              bathroom. Once the lock was drawn, alone facing my reflection in the
+              large mirror, I couldn't hold back anymore.
             </p>
 
             <p className="text-gray-200 leading-relaxed text-lg">
-              J'ai commencé à me <span className="font-bold text-pink-400">toucher</span>,
-              doucement d'abord. Mes seins étaient lourds et gonflés, mes tétons
-              durcissaient tellement que ça en devenait douloureux. J'ai pris ma
-              main gauche pour pétrir ma poitrine, je sentais leur poids, leur
-              chaleur... C'était obscène.
+              I started to <span className="font-bold text-pink-400">touch</span> myself,
+              gently at first. My breasts were heavy and swollen, my nipples were
+              hardening so much that it became painful. I used my left hand to knead
+              my chest, I felt their weight, their warmth... It was obscene.
             </p>
 
             <blockquote className="border-l-4 border-rose-500 pl-6 py-3 text-gray-300 italic bg-gray-800/50 rounded-r-lg">
               <p className="text-lg leading-relaxed">
-                Puis ma main droite a glissé vers le bas. Sur ma taille, mes hanches
-                larges... jusqu'à mon entre-jambe. C'était trempé. Ça pulsait à
-                l'intérieur. Une sorte de démangeaison profonde, insatiable, comme
-                si mon corps réclamait d'être rempli. Plus je me caressais, plus ce
-                liquide chaud coulait le long de mes cuisses. Je n'arrivais plus à
-                me contrôler.
+                Then my right hand slipped downwards. Over my waist, my wide hips...
+                down to my crotch. It was soaked. It was pulsing inside. A kind of
+                deep, insatiable itch, as if my body was begging to be filled. The
+                more I caressed myself, the more that warm liquid flowed down my
+                thighs. I couldn't control myself anymore.
               </p>
             </blockquote>
 
             <p className="text-gray-200 leading-relaxed text-lg">
-              Je me suis écartée en grand face au miroir. J'avais besoin de plus.
-              J'ai attrapé mon jouet préféré. Quand je l'ai fait glisser à
-              l'intérieur de moi... <br />
-              <span className="font-bold text-2xl text-transparent bg-clip-text bg-gradient-to-r from-rose-500 to-pink-500">BORDEL</span>. La sensation était trop forte. Ça
-              frottait contre mes parois, vite, fort, profond.
+              I spread wide facing the mirror. I needed more. I grabbed my favorite
+              toy. When I slid it inside me... <br />
+              <span className="font-bold text-2xl text-transparent bg-clip-text bg-gradient-to-r from-rose-500 to-pink-500">HOLY FUCK</span>. The sensation was too strong. It
+              rubbed against my walls, fast, hard, deep.
             </p>
 
             <p className="text-gray-200 leading-relaxed text-lg">
-              Je me voyais dans la glace : la tête en arrière, la bouche ouverte,
-              les yeux révulsés, mes seins qui rebondissaient au rythme de mes
-              coups de reins violents. J'ai hurlé. J'ai giclé. Partout. C'était
-              sale, c'était animal, et c'était la meilleure sensation de ma vie.
+              I saw myself in the mirror: head tilted back, mouth open, eyes rolled
+              back, my breasts bouncing to the rhythm of my violent thrusts. I
+              screamed. I squirted. Everywhere. It was dirty, it was animalistic,
+              and it was the best feeling of my life.
             </p>
 
             <div className="rounded-xl bg-gradient-to-r from-gray-800 to-gray-900 p-6 border border-gray-700 shadow-lg">
               <p className="text-pink-200 leading-relaxed text-lg">
-                J'ai tout filmé. Tout. On voit l'intérieur, on voit le liquide, on
-                entend chaque bruit humide. C'est brut, sans filtre, et totalement
-                réel.
+                I filmed everything. Everything. You can see the inside, you can
+                see the liquid, you can hear every wet sound. It's raw, unfiltered,
+                and totally real.
               </p>
             </div>
 
@@ -126,10 +121,9 @@ const App = () => {
             </div>
 
             <p className="text-gray-200 leading-relaxed text-lg">
-              Mon mari ne saura jamais ce qui s'est passé dans cette pièce. C'est
-              notre secret maintenant. Si tu veux rejoindre mon double-jeu et voir
-              la vraie moi, celle qui ne porte pas de masque... la porte est juste
-              là.
+              My husband will never know what happened in that room. It's our
+              secret now. If you want to join my double-game and see the real me,
+              the one who doesn't wear a mask... the door is right here.
             </p>
           </CardContent>
 
@@ -137,7 +131,7 @@ const App = () => {
            
             <Button className="px-8 py-6 text-base bg-gradient-to-r from-pink-600 to-rose-600 hover:from-pink-700 hover:to-rose-700 text-white border-none shadow-lg hover:shadow-pink-500/20 transition-all">
               
-                    Accèdes à mon jardin secret MAINTENANT
+                    Access my secret garden NOW
             </Button>
           </CardFooter>
         </Card>
