@@ -134,11 +134,10 @@ const App = () => {
           </CardContent>
 
           <CardFooter className="flex justify-center gap-6 border-t border-gray-700 pt-8 pb-6 bg-gray-800/50">
-            <Button variant="outline" className="px-8 py-6 text-base border-gray-600 text-gray-200 hover:bg-gray-700 hover:border-pink-500 hover:text-white transition-all">
-              Partager
-            </Button>
+           
             <Button className="px-8 py-6 text-base bg-gradient-to-r from-pink-600 to-rose-600 hover:from-pink-700 hover:to-rose-700 text-white border-none shadow-lg hover:shadow-pink-500/20 transition-all">
-              Voir la suite
+              
+                    Accèdes à mon jardin secret MAINTENANT
             </Button>
           </CardFooter>
         </Card>
